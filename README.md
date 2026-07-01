@@ -74,16 +74,16 @@
 ------ GitHub Stats ------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=radieeotw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radieeotw&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=radhikaa-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhikaa-03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radieeotw&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radhikaa-03&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radieeotw&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radhikaa-03&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
 ---
@@ -91,7 +91,7 @@
 ------ Trophies -------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=radieeotw&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=radhikaa-03&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
