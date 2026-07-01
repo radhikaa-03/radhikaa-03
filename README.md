@@ -51,7 +51,7 @@
       <code>Python</code> <code>FastAPI</code> <code>Firebase</code> <code>Playwright</code> <code>Gemini API</code>
     </td>
     <td width="50%">
-      <h4>📡 sniffthepack </h4>
+      <h4> sniffthepack </h4>
       A terminal-based network packet sniffer with a live, Rich-powered dashboard UI for real-time traffic analysis.
       <br><br>
       <code>Python</code> <code>Scapy</code> <code>Rich</code>
@@ -88,13 +88,7 @@
 
 ---
 
------- Trophies -------------------------------------------------------------------------------------------------
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=radhikaa-03&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 <p align="center"><i>Building things, breaking things (responsibly), and figuring out the rest as I go.</i></p>
 
