@@ -45,13 +45,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>🎣 PhishNet</h4>
+      <h4> phishnet </h4>
       AI-driven phishing detection platform combining a web sandbox (Playwright), threat intel (VirusTotal), and LLM-based analysis (Gemini) behind a FastAPI backend with Firebase Auth.
       <br><br>
       <code>Python</code> <code>FastAPI</code> <code>Firebase</code> <code>Playwright</code> <code>Gemini API</code>
     </td>
     <td width="50%">
-      <h4>📡 SniffThePack</h4>
+      <h4>📡 sniffthepack </h4>
       A terminal-based network packet sniffer with a live, Rich-powered dashboard UI for real-time traffic analysis.
       <br><br>
       <code>Python</code> <code>Scapy</code> <code>Rich</code>
@@ -68,7 +68,7 @@
   </tr>
 </table>
 
-<p align="center"><i>📌 Pin your top 6 repos on your actual profile for max impact — this table is a preview.</i></p>
+
 
 
 ------ GitHub Stats ------------------------------------------------------------------------------------------------
