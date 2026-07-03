@@ -70,10 +70,13 @@
 ------ GitHub Stats ------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img src="github-metrics.svg" width="90%" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=radhikaa-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=radhikaa-03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center"><sub>Auto-updated daily via GitHub Actions — see .github/workflows/stats.yml</sub></p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/streak/?username=radhikaa-03&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
