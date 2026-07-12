@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Radhika</h1>
+<h1 align="center">Hey I'm Radhika <3</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/radhikaa03/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -11,7 +11,6 @@
 ------ About Me ----------------------------------------------------------------------------------------------------
 
 - 2nd-year **B.Tech Information Technology** student at **VIT Vellore**
-- Active member of **WhiteHats Cybersecurity Club**
 - Currently building **PhishNet** — an AI-powered phishing detection platform (FastAPI, Firebase Auth, Playwright, VirusTotal, Gemini)
 - Interested in **ML/AI security, digital forensics, and full-stack systems**
 - Learning: advanced DSA patterns, distributed systems, offensive security
