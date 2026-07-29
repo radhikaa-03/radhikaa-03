@@ -16,7 +16,7 @@ About Me
 - Learning: advanced DSA patterns, distributed systems, offensive security
 
 
-## Tech Stack
+Tech Stack
 
 **Python • FastAPI • C++ • JavaScript • Flask • Firebase • Git • Wireshark • Scikit-learn • Pandas • Power BI • Linux**
 
