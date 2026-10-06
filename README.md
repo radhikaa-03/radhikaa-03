@@ -11,7 +11,7 @@
 About Me
 
 - 2nd-year **B.Tech Information Technology** student at **VIT Vellore**
-- Currently building **PhishNet** — an AI-powered phishing detection platform 
+- Currently building phishnet — an AI-powered phishing detection platform and a fun photobooth :)
 - Interested in **ML/AI security, digital forensics, and full-stack systems**
 - Learning: advanced DSA patterns, distributed systems, offensive security
 
